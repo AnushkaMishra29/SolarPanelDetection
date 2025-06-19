@@ -107,3 +107,6 @@ pip install torch torchvision streamlit scikit-learn matplotlib seaborn pillow
 | Electrical-damage | 0.90      | 0.95   | 0.92     |
 | Physical-Damage   | 0.70      | 0.54   | 0.61     |
 | Snow-Covered      | 0.95      | 0.83   | 0.89     |
+
+<img width="299" alt="image" src="https://github.com/user-attachments/assets/3d78e31b-c6d4-47af-9661-36f09f902032" />
+
